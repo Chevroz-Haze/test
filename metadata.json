@@ -1,0 +1,6 @@
+{
+  "name": "Foundry Next.js Starter",
+  "description": "A production-ready Next.js 15, React 19, TypeScript, and Tailwind CSS v4 full-stack starter template with API route handlers, CRUD state management, and UI primitives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
